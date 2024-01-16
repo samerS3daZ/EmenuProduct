@@ -1,6 +1,6 @@
 ﻿using BCM.Domain.Entities;
 using BCM.Domain.Repositories;
-using EmenuProduct.Infrastructure;
+using Infrastructure;
 using System.Linq.Expressions;
 
 namespace BCM.Infrastructure.Repositories

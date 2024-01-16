@@ -2,7 +2,7 @@
 using BCM.Domain;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using EmenuProduct.Infrastructure;
+using Infrastructure;
 
 namespace BCM.Infrastructure
 {

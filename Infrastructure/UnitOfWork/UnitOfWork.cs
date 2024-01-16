@@ -2,7 +2,7 @@
 using BCM.Domain.UnitOfWork;
 using BCM.Infrastructure.Helpers;
 using BCM.Infrastructure.Repositories;
-using EmenuProduct.Infrastructure;
+using Infrastructure;
 using System.Security.Claims;
 
 namespace BCM.Infrastructure.UnitOfWork
